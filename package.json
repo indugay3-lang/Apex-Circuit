@@ -1,0 +1,6 @@
+{
+  "name": "apex-circuit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Apex Circuit - Android wrapper (Capacitor)"
+}
